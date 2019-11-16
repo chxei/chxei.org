@@ -1,0 +1,31 @@
+{
+  "name": "chxei.org",
+  "version": "0.0.1",
+  "description": "chxei's blog",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chxei/chxei.org.git"
+  },
+  "keywords": [
+    "chxei"
+  ],
+  "author": "chxei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chxei/chxei.org/issues"
+  },
+  "homepage": "https://github.com/chxei/chxei.org#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "bulma": "^0.8.0",
+    "jquery": "^3.4.1",
+    "material-components-web": "^4.0.0"
+  }
+}
